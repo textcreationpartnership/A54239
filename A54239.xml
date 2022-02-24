@@ -1,0 +1,241 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The use of the nocturnal. Written by W.P.</title>
+            <author>W. P.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1655</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A54239</idno>
+            <idno type="STC">Wing P138H</idno>
+            <idno type="STC">ESTC R220321</idno>
+            <idno type="EEBO-CITATION">99831739</idno>
+            <idno type="PROQUEST">99831739</idno>
+            <idno type="VID">36206</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A54239)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 36206)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2051:26)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The use of the nocturnal. Written by W.P.</title>
+                  <author>W. P.</author>
+               </titleStmt>
+               <extent>[2], 12 p.   </extent>
+               <publicationStmt>
+                  <publisher>The nocturnals and these books, are to be sold by Joseph Moxon, at his shop in Corn-hill, at the sign of Atlas, in London,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1655.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Astronomy --  Early works to 1800.</term>
+               <term>Astronomical instruments --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:36206:1" rendition="simple:additions"/>
+            <p>THE USE Of the Nocturnal.</p>
+            <p>Written by <hi>W. P.</hi>
+            </p>
+            <p>The Nocturnals and theſe Books, are to be ſold by <hi>Joſeph Moxon,</hi> at his ſhop in <hi>Corn-hill,</hi> at the ſign of <hi>Atlas,</hi> in <hi>London.</hi> 1655.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:36206:2"/>
+            <pb n="1" facs="tcp:36206:2"/>
+            <head>THE USE Of the Nocturnal.</head>
+            <div n="1" type="part">
+               <head>1. What the Nocturnal is.</head>
+               <p>
+                  <seg rend="decorInit">I</seg>T is an Inſtrument conſiſting of two parts:</p>
+               <p n="1">1. A <hi>Circle,</hi> which is divided into 24 hours; and each hour into ſo many parts as the ſpace between each hour will admit of. The com<g ref="char:EOLhyphen"/>mon Nocturnals are divided into four quarters, and each quarter into three parts; ſo as the whole hour is divided in 12 equal parts; each equal part containing five Minutes, as you may ſee in the Nocturnal it ſelf; upon the hour of 12 there is placed a <hi>Flower de Luce.</hi>
+               </p>
+               <p>The ſecond part of it is a <hi>moveable Rundle,</hi> the Circle whereof is fixed to the Center of
+<pb n="2" facs="tcp:36206:3"/>the Circle of hours, that ſo you may turn it round, as occaſion requires. The outmoſt edge of this Rundle is divided into 365 parts, ſhew<g ref="char:EOLhyphen"/>ing the days of the year; and the next within this, is the Months of the year, marked with the firſt letter of each Month, as I. for <hi>Janu<g ref="char:EOLhyphen"/>ary,</hi> F. for <hi>February,</hi> and ſo of the reſt.</p>
+               <p>And alſo in the Circle are diviſions, num<g ref="char:EOLhyphen"/>bred with 10, 20, 30, ſhewing the number of days comprehended between the beginning of the Months, and the diviſion to which theſe Figures are annexed.</p>
+               <p>Within this Circle is deſcribed thoſe fixed ſtars that are near the North-Pole, and be<g ref="char:EOLhyphen"/>longing to five Conſtellations; whereof that which is in the middle, is called URSA MI<g ref="char:EOLhyphen"/>NOR, (of ſome HELICE MINOR) which in Engliſh is the <hi>little Bear,</hi> it being in the form a Bear.</p>
+               <p>This Conſtellation conſiſts of ſeven ſtars, whereof three onely are ſplendent; that is the <hi>Pole ſtar</hi> in the end of the <hi>Tayl,</hi> and thoſe two that are in the foreparts of the <hi>Bear,</hi> one of them upon his Back neer the Neck, and the other upon his ſide; and theſe two are called of our Mariners <hi>the Guards,</hi> Theſe three ſtars are of excellent uſe in Navigation, and well known by Seamen.</p>
+               <p>
+                  <pb n="3" facs="tcp:36206:3"/>
+The next Conſtellation is DRACO, or the <hi>Dragon,</hi> and hath ſundry ſtars which you may learn to know by the Rules following. The third is BOOTES. The fourth is CASSIOPEIA. The fifth is URSA MAJOR, or the <hi>great Bear.</hi>
+               </p>
+               <p>And laſtly, there is ſix Lines drawn through the Pole, which are Meridians, and are of great uſe, as you ſhall learn hereafter.</p>
+            </div>
+            <div type="part">
+               <head>Here followeth ſeveral Uſes of the Circles of the Nocturnal.</head>
+               <list>
+                  <item>1. The round Circle whereon the Rundle is fixed, which is divided into 24 hours, notes the 24 hours of the Night and Day, and alſo the quarters of every hour, and the third part of each quarter, which is but five Minutes; ſo that you may work to five M<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nutes of time by this Inſtrument, be it either time given, or time ſought for as the queſtion importeth.</item>
+                  <item>2. The uſe of the Months, and their diviſi<g ref="char:EOLhyphen"/>ons into days, is either to give the day of the Month ſought for, or by the day of the Month given, to find another thing required, as the queſtion imports.</item>
+                  <item>
+                     <p>3. The uſe of the ſtars and their Conſtella<g ref="char:EOLhyphen"/>tions is twofold:
+<list>
+                           <item>1. To learn to know thoſe <gap reason="illegible" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>tars one from another, and from all other ſtars.</item>
+                           <item>And 2. Knowing them, to make uſe of them, <gap reason="illegible" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>s the queſtion ye are to reſolve requires.</item>
+                        </list>
+                     </p>
+                     <p>
+                        <pb n="4" facs="tcp:36206:4"/>
+And note this, That that ſtar which is in the Tayl of the <hi>little Bear,</hi> is neareſt the North-Pole, and as in the Rundle all the reſt of the ſtars ſeem to move round this ſtar, ſo do they in the Heavens ſeem to move round it alſo: This being an exact Type or Figure of the ſtars near the Pole.</p>
+                  </item>
+                  <item>4. The uſe of the Meridians which run through the Pole: (or rather meet together in the Pole) Their uſe is three-fold:
+<list>
+                        <item>1. For the more occular diſtinction of each Month.</item>
+                        <item>2. To ſhew the Right Aſcenſion of any ſtar deſcribed in the Rundle.</item>
+                        <item>And 3. To ſhew how to bring any ſtar to the Meridian of the Noctur<g ref="char:EOLhyphen"/>nal, which is the hour of 12 under the <hi>Flowe<gap reason="illegible" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap> de Luce.</hi>
+                        </item>
+                     </list>
+                  </item>
+               </list>
+               <p>Alſo becauſe we ſeldom ſee a ſtar juſt upo<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the Meridian, therefore do theſe Meridian ſhew how to place the ſtar either ſhort or pa<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> the Meridian, which we could not do ſo we<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> by gueſs.</p>
+               <p>Thus much I judged meet, not only for th<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> uſe that theſe difinitions are of in the uſe of th<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Inſtrument, but becauſe they may ſatisfie th<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> deſire of ſome that are not verſed in Mathema<g ref="char:EOLunhyphen"/>tical Phraſes, and yet would willingly kno<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the reaſon of ſuch things. Therefore to co<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>clude this diſcourſe with a few of the mo<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <pb n="5" facs="tcp:36206:4"/>practical uſes of this Inſtrument, that may be eaſily underſtood of thoſe that are not Mathe<g ref="char:EOLhyphen"/>matically diſciplined.</p>
+               <p>Firſt then, To learn to know the ſtars de<g ref="char:EOLhyphen"/>ſcribed in the Rundle one from another, and from the reſt of the ſtars that we ſee in the Heaven.</p>
+               <p>In a night when the ſtars may be ſeen, look toward the North part of the Heaven, and there you may take notice of ſeven very bright ſtars, lying in the ſame form as ye ſee in the Image of the <hi>great Bear;</hi> four lying in a ſquare, or like the four Wheels of a Waggon, and three, which you may imagine to be three Horſes following one another; the form how they lie, you may ſee in the Rundle between the letters A, S, O; theſe being well known, you may look what ſtars lie near any one of them, and there you will find what ſtar it is. As for example.</p>
+               <p>I ſee a ſtar lying juſt over the ſtar in the great Bears back: looking in the Rundle I find that ſtar to be in the end of the Dragons-tayl, and ſo you may learn to know them all one from the other, comparing the ſtars ye ſee in the Heaven to them that are in the Rundle; and though you may ſee many ſtars in the Heaven, yet theſe are of the greateſt magnitude amongſt them.</p>
+               <p>
+                  <pb n="6" facs="tcp:36206:5"/>
+Another way to know the true name of a ſtar, and to know it from others.</p>
+               <p>Firſt note a ſtar in the Heaven, that you ſee upon, or near the Meridian; then look in the Nocturnal for the day of the Month, and bring that day to the hour of the night next the <hi>Flow<g ref="char:EOLhyphen"/>er de Luce,</hi> then look what ſtar lyeth between the <hi>Flower de Luce</hi> and the Pole in the Rundle, and that is the ſtar, and its name which I ſee in the Heaven: but then if looking on the Rundle, I find two ſtars lying between the <hi>Flower de Luce</hi> and the Pole, then you muſt note which is neareſt the Pole, and which fur<g ref="char:EOLhyphen"/>theſt off, and ſo you may know each from o<g ref="char:EOLhyphen"/>ther: And becauſe to know the North-ſtar is very expedient, I will ſhew you how to do it, after I have given an example of what I laſt laid down.</p>
+               <p>Upon the firſt of <hi>April,</hi> at half an hour paſt nine, I ſee two bright ſtars upon the Meridian, the one nearer me then the other; then to know the names of thoſe two ſtars, and to know them from others, I bring the letter A for <hi>April</hi> to half an hour paſt nine from Noon, (the <hi>Flower de Luce</hi> noting Noon) and ſo counting 1, 2, 3, to half paſt nine, then looking in a right Line from the <hi>Flower de Luce</hi> to the Pole, I ſee the ſtar neareſt me as it lies in
+<pb n="7" facs="tcp:36206:5"/>the Heaven, to be in the thigh of the great Bear; and that furtheſt from me, to be in the back of the Bear; and then looking a little to the Eaſt in the Heavens, I ſee two more fol<g ref="char:EOLhyphen"/>low in a Front, and after them cometh three more: for theſe I look in the Rundle, and one of the two next to the two I found on the Me<g ref="char:EOLhyphen"/>ridian, is upon the great Bears buttock; the o<g ref="char:EOLhyphen"/>ther in the root of his Tayl: The firſt of the three following, I find to be thus: The firſt in the Tayl, the ſecond in the middle of the Tayl, the third in the extreamity or end of the Tayl: And by this you may come to know all the ſtars inſcribed in this Rundle. And this al<g ref="char:EOLhyphen"/>waies note, That the ſtar which in the Heaven ye find next to you, that ſtar will appear next the edge of the Rundle; and this is when ye find two ſtars upon the Meridian at once.</p>
+               <p>Now I ſhall ſhew you how to find out the North-ſtar, from the reſt which you ſee in the Heaven; and this ſtar is very bright, being one of the ſecond magnitude or bigneſs.</p>
+               <p>The moſt exact and ſpeedy way is this:</p>
+               <p>Take a Quadrant Aſtrolabe, or Croſs-ſtaff, and as near as you can gueſs, look (through the ſights of your Inſtrument) into the North part of the Heaven, ſo high as is the Latitude of your place, and it will ſoon ſhew you where<g ref="char:EOLhyphen"/>about
+<pb n="8" facs="tcp:36206:6" rendition="simple:additions"/>it is, for there is no ſtar ſo great near it; and when you have thus found it, be ſure you note it well how it lies from other ſtars, that you may know it again: Thus at <hi>London</hi> the Latitude being 51 Degrees and an half, I lift up the Sights of the Quadrant or Aſtrolabe, til the thred of the Quadrant, or Aledida of the Aſtrolabe fall upon 51 Degrees and an half; then looking ſtill at that height, I look as near the North point as I can gueſs, and there, or ve<g ref="char:EOLhyphen"/>ry near is the Pole or North-ſtar. If you have a Magnetique Needle that will ſhew you the North point of Heaven.</p>
+               <p>The next way to find the North-ſtar is this, which is done without any Inſtrument.</p>
+               <p>Look into the North part of Heaven, note ſome ſtar that is little above half the height of Heaven, from the lower part of the Heaven; and by diligent notice, ſee whether in an hours time or more, you can ſee it remove from the place where you firſt ſaw it; if it be removed, that is not the ſtar; and ſo continuing note the ſtar that lyeth as beforeſaid, half above the Horizon, and moves not, and that is the Pole<g ref="char:EOLhyphen"/>ſtar; and this ſtar will be the ſooner known, becauſe it is more remote from any bright ſtar, then any ſtar near it.</p>
+               <p>The reaſon why this ſtar moves not is, be<g ref="char:EOLhyphen"/>cauſe
+<pb n="9" facs="tcp:36206:6"/>it is near the Pole, and the other ſtars moves round this; yet is not this ſtar without a motion, for it moves round the true Pole, but the eye can ſcarce perceive it to move at all.</p>
+               <p>An example of this in a night when the ſtars may be ſeen:</p>
+               <p>I look up half way into the Heaven, and a little higher, and as near North as I can; which I know by the building of a Church, whoſe Steeple ſtands alwaies Weſt from the Church, and there I ſee a bright ſtar by it ſelf, and it ſtands ſo that I may juſt ſee it by the edge of a Houſe-wal; then I mark how and where I ſtood, and go away, and come two, three, four, or five hours after, and ſtand juſt in the place as I did before, and find that the ſtar is not removed out of that place; therefore by all tokens this muſt needs be the Pole-ſtar: but if I find the ſtar removed, I conclude that that is not the ſtar, but I try another and another till I do find it; taking this for a ſure ground, that it lyeth full North from me, and that a little above half of the height of the Heaven, or thereabout, in the Latitude of 51 Degrees.</p>
+               <p>The next thing is, How to know the Meri<g ref="char:EOLhyphen"/>dian in the Heavens.</p>
+               <p>Having found out the North-ſtar, ſix your eye upon it, and imagin as near as you can, a
+<pb n="10" facs="tcp:36206:7"/>direct Line to be drawn from that ſtar to the place in the Heaven right over your head, and that Line is the Meridian; and when you ſee any known ſtar come to this Line, then is that ſtar upon the Meridian; when a ſtar is not quite come to it, that ſtar is ſaid to want of its com<g ref="char:EOLhyphen"/>ming to the Meridian; when a ſtar is gone paſt this Line, 'tis paſt the Meridian; and this Line (for ſo I call it, becauſe all men know not the meaning of an Arch) is an Arch of the true Meridian of the place; and whereas I ſay let this Line be drawn from the Pole-ſtar, it is for the eaſe of thoſe who are not verſed in Aſtro<g ref="char:EOLhyphen"/>nomy; though the true Arch of the Meridian muſt be drawn from the true Pole, yet in the uſe of this Inſtrument it begets no ſenſible er<g ref="char:EOLhyphen"/>rour to draw this Line or Arch from the Pole<g ref="char:EOLhyphen"/>ſtar.</p>
+               <p>The next thing is to find the right Aſcenſion of any ſtar in the Rundle.</p>
+               <p>Suppoſe the outmoſt edge of any Rundle were divided into 360 parts or Degrees, then muſt you begin to number at the Meridian-Line that cometh from the Pole to the letter M, which ſhews <hi>March:</hi> and ſo count on, al<g ref="char:EOLhyphen"/>lowing to each ſpace 30 Degrees and that will give you the Right Aſcenſion of the ſtar you deſire: As for example.</p>
+               <p>
+                  <pb n="11" facs="tcp:36206:7"/>
+I deſire to know the Right Aſcenſion of the bright ſtar in the end of the great Bears Tayl: I begin at M for <hi>March,</hi> and proceeding I ſay, 30 and 30 and 30, is ninety: 30 30 30. is ninty more: 180 and 30, is 210, and about five Degrees more: ſo that I find the right Aſ<g ref="char:EOLhyphen"/>cenſion of this ſtar to be 215 Degrees.</p>
+               <p>The day of the Month, &amp; a ſtar on the Meri<g ref="char:EOLhyphen"/>dian being given, to find the hour of the Night.</p>
+               <p>Bring the ſtar which you ſee upon the Me<g ref="char:EOLhyphen"/>ridian to the <hi>Flower de Luce,</hi> and then look for the day of the Month, and right againſt it you have the hour of the Night given.</p>
+               <div type="section">
+                  <head>EXAMPLE,</head>
+                  <p>Upon the firſt of <hi>April</hi> at night I ſee the bright ſtar in the middle of the great Bears-Tayl upon the Meridian: therefore I bring it to the <hi>Flower de Luce,</hi> and looking upon the firſt day of <hi>April</hi> I find it is ¼ of an hour paſt 11.</p>
+                  <p>Next, The hour of the Night, with a ſtar up<g ref="char:EOLhyphen"/>on the Meridian given, to find the day of the Month.</p>
+                  <p>Bring the ſtar to the <hi>Flower de Luce,</hi> and right againſt the hour of the Night, is the day of the Month.</p>
+                  <p>This queſtion may truly be performed, if your Nocturnal be true; and you know the time of Night to three or four Minutes, o<g ref="char:EOLhyphen"/>therwiſe
+<pb n="12" facs="tcp:36206:8"/>you will work falſe.</p>
+                  <p>Laſtly, the day of the Month, with the hour to know what ſtar is upon the Meridian.</p>
+                  <p>Bring the time of the day, and the day of the moneth together, and what Star you find upon the line that goes through the middle of the Flower de Luce and the Pole, thoſe are upon the Meridian. And note this, that you are to count your time from the Flower de Luce, 1, 2, 3, 4, and ſo on to 12 at night, till you come to 12 at noon, where you be<g ref="char:EOLhyphen"/>gan; ſo that the Flower de Luce notes the hour of 12 at Noon, and the reſt on in order from Noon to Midnight, and ſo to Noon again.</p>
+               </div>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:36206:8"/>
+         </div>
+      </body>
+   </text>
+</TEI>
